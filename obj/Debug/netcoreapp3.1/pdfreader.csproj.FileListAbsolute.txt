@@ -1,0 +1,15 @@
+E:\pdfreader\bin\Debug\netcoreapp3.1\pdfreader.exe
+E:\pdfreader\bin\Debug\netcoreapp3.1\pdfreader.deps.json
+E:\pdfreader\bin\Debug\netcoreapp3.1\pdfreader.runtimeconfig.json
+E:\pdfreader\bin\Debug\netcoreapp3.1\pdfreader.runtimeconfig.dev.json
+E:\pdfreader\bin\Debug\netcoreapp3.1\pdfreader.dll
+E:\pdfreader\bin\Debug\netcoreapp3.1\pdfreader.pdb
+E:\pdfreader\obj\Debug\netcoreapp3.1\pdfreader.csprojAssemblyReference.cache
+E:\pdfreader\obj\Debug\netcoreapp3.1\pdfreader.AssemblyInfoInputs.cache
+E:\pdfreader\obj\Debug\netcoreapp3.1\pdfreader.AssemblyInfo.cs
+E:\pdfreader\obj\Debug\netcoreapp3.1\pdfreader.csproj.CoreCompileInputs.cache
+E:\pdfreader\obj\Debug\netcoreapp3.1\pdfreader.dll
+E:\pdfreader\obj\Debug\netcoreapp3.1\pdfreader.pdb
+E:\pdfreader\obj\Debug\netcoreapp3.1\pdfreader.genruntimeconfig.cache
+E:\pdfreader\bin\Debug\netcoreapp3.1\itextsharp.dll
+E:\pdfreader\obj\Debug\netcoreapp3.1\pdfreader.csproj.CopyComplete
